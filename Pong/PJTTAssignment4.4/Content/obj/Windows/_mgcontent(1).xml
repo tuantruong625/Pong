@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/pjkha/Desktop/PJTTAssignment4.5/PJTTAssignment4.4/Content/Background.png</File>
+    <File>C:/Users/pjkha/Desktop/PJTTAssignment4.5/PJTTAssignment4.4/Content/Ball.png</File>
+    <File>C:/Users/pjkha/Desktop/PJTTAssignment4.5/PJTTAssignment4.4/Content/Bat.png</File>
+    <File>C:/Users/pjkha/Desktop/PJTTAssignment4.5/PJTTAssignment4.4/Content/Font.spritefont</File>
+    <File>C:/Users/pjkha/Desktop/PJTTAssignment4.5/PJTTAssignment4.4/Content/applause1.wav</File>
+    <File>C:/Users/pjkha/Desktop/PJTTAssignment4.5/PJTTAssignment4.4/Content/ding.wav</File>
+  </SourceFiles>
+</SourceFileCollection>
